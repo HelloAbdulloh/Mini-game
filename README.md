@@ -1,0 +1,2 @@
+# Mini-game
+O'xshamagan
